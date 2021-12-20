@@ -3,11 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh; 
-    background-color:orchid;
+    background-color:teal;
 }
 
+
 h1{
-    font-size: 41px ;
+    font-size: 30px ;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: blue
 }
