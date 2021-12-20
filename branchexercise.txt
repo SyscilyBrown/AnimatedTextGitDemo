@@ -1,0 +1,23 @@
+Answer the following questions:
+
+1. What git command creates a branch?
+git branch -b nameofnewbranch
+
+2. What is the difference between a fast-forward and recursive merge?
+Fast forward merge - git can easily tell the commits that happened and puts one set of commits on top of another
+Recursive - works when fast forward is too simple 
+
+3. What git command changes to another branch?
+git checkout nameofbranch
+
+4. What git command deletes a branch?
+Git branch -D nameofbranch
+
+5. How do merge conflicts happen?
+When both things in a merge can't be true. ie. H1 background color pink merging iwith h1 background color green 
+
+Part II
+Practice with fast forward and recursive merges! Make a branch and add and commit onto it and merge it back into master.
+
+Try to create your own merge conflict by modifying the same file on two separate commits on two separate branches.
+
